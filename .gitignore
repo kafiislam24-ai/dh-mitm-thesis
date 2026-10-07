@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+paper.docx
+presentation.pptx
+Diffie_Hellman_Master_Research_Record.docx 
